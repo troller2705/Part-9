@@ -1,0 +1,15 @@
+D:\ICS4U\Part 9 Classes\bin\Debug\net6.0\Part 9 Classes.exe
+D:\ICS4U\Part 9 Classes\bin\Debug\net6.0\Part 9 Classes.deps.json
+D:\ICS4U\Part 9 Classes\bin\Debug\net6.0\Part 9 Classes.runtimeconfig.json
+D:\ICS4U\Part 9 Classes\bin\Debug\net6.0\Part 9 Classes.dll
+D:\ICS4U\Part 9 Classes\bin\Debug\net6.0\Part 9 Classes.pdb
+D:\ICS4U\Part 9 Classes\obj\Debug\net6.0\Part 9 Classes.csproj.AssemblyReference.cache
+D:\ICS4U\Part 9 Classes\obj\Debug\net6.0\Part 9 Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\ICS4U\Part 9 Classes\obj\Debug\net6.0\Part 9 Classes.AssemblyInfoInputs.cache
+D:\ICS4U\Part 9 Classes\obj\Debug\net6.0\Part 9 Classes.AssemblyInfo.cs
+D:\ICS4U\Part 9 Classes\obj\Debug\net6.0\Part 9 Classes.csproj.CoreCompileInputs.cache
+D:\ICS4U\Part 9 Classes\obj\Debug\net6.0\Part 9 Classes.dll
+D:\ICS4U\Part 9 Classes\obj\Debug\net6.0\refint\Part 9 Classes.dll
+D:\ICS4U\Part 9 Classes\obj\Debug\net6.0\Part 9 Classes.pdb
+D:\ICS4U\Part 9 Classes\obj\Debug\net6.0\Part 9 Classes.genruntimeconfig.cache
+D:\ICS4U\Part 9 Classes\obj\Debug\net6.0\ref\Part 9 Classes.dll
